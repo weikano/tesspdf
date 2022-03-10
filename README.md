@@ -1,0 +1,3 @@
+# tesspdf
+
+pdfium + djvulibre + tesseract
